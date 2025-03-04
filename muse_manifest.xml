@@ -1,0 +1,262 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="digicont.cu" resolutions="1x" timestamp="1740107543353">
+  <folder name="assets">
+    <file name="cuño-digicont..png" crc="3988529838" seo="true" mt="1718470100000"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="410526988" ref="index"/>
+    <file name="nuestro-trabajo.css" crc="4154481983" ref="nuestro-trabajo"/>
+    <file name="aplicativos.css" crc="163003472" ref="aplicativos"/>
+    <file name="master_inicio.css" crc="4130984579" ref="index:nuestro-trabajo:aplicativos"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:nuestro-trabajo:aplicativos"/>
+    <file name="museutils.js" crc="3803043152" ref="index:nuestro-trabajo:aplicativos"/>
+    <file name="whatinput.js" crc="86476730" ref="index:nuestro-trabajo:aplicativos"/>
+    <file name="museconfig.js" crc="380897831" ref="index:nuestro-trabajo:aplicativos"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:nuestro-trabajo:aplicativos"/>
+    <file name="require.js" crc="4157109226" ref="index:nuestro-trabajo:aplicativos"/>
+  </folder>
+  <folder name="images">
+    <file name="d01 img03 logo digicont.png" crc="4264474981" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="aplicativos" alt=""/>
+    </file>
+    <file name="u158-4.png" crc="379228074" ref="index"/>
+    <file name="u162-4.png" crc="305553563" ref="index"/>
+    <file name="u165-4.png" crc="3834776223" ref="index"/>
+    <file name="d04 img07 boton.png" crc="11888283" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="d05 img03.png" crc="4126027448" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="d07 img03 no01.png" crc="4152614841" seo="true" ref="index:nuestro-trabajo">
+      <caption webpage="index" alt=""/>
+      <caption webpage="nuestro-trabajo" alt=""/>
+    </file>
+    <file name="d07 img09 no02.png" crc="198919033" seo="true" ref="index:nuestro-trabajo">
+      <caption webpage="index" alt=""/>
+      <caption webpage="nuestro-trabajo" alt=""/>
+    </file>
+    <file name="d08 img03 no03.png" crc="4056474311" seo="true" ref="index:nuestro-trabajo">
+      <caption webpage="index" alt=""/>
+      <caption webpage="nuestro-trabajo" alt=""/>
+    </file>
+    <file name="d14 img03.png" crc="451362044" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="d14 img04.png" crc="4026378756" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="d16 img04.png" crc="323686889" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="d16 img05.png" crc="480538216" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="d16 img06.png" crc="3588435" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="d16 img07 erne.png" crc="220913636" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="d16 img08 santos.png" crc="353949573" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="conkronos.jpg" crc="3800325811" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="renovo fermar.jpg" crc="3810318883" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="chaviano.jpg" crc="59952079" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo doña dely.jpg" crc="4177467118" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bada bing.jpg" crc="4106260141" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo el rey de la mecánica.jpg" crc="4083160286" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="d07 img01.png" crc="4227820425" seo="true" ref="nuestro-trabajo">
+      <caption webpage="nuestro-trabajo" alt=""/>
+    </file>
+    <file name="u1142-4.png" crc="328224788" ref="nuestro-trabajo"/>
+    <file name="u1145-6.png" crc="4142154784" ref="nuestro-trabajo"/>
+    <file name="d07 img10 logo versat.png" crc="508182538" seo="true" ref="nuestro-trabajo:aplicativos">
+      <caption webpage="nuestro-trabajo" alt=""/>
+      <caption webpage="aplicativos" alt=""/>
+    </file>
+    <file name="u1139-4.png" crc="3806151350" ref="nuestro-trabajo"/>
+    <file name="d07 img06.png" crc="3826385759" seo="true" ref="nuestro-trabajo">
+      <caption webpage="nuestro-trabajo" alt=""/>
+    </file>
+    <file name="u1191-4.png" crc="384430378" ref="nuestro-trabajo"/>
+    <file name="u1192-4.png" crc="3953370767" ref="nuestro-trabajo"/>
+    <file name="d08 img02-crop-u1235.png" crc="3984824941" seo="true" ref="nuestro-trabajo">
+      <caption webpage="nuestro-trabajo" alt=""/>
+    </file>
+    <file name="u1257-4.png" crc="388687324" ref="nuestro-trabajo"/>
+    <file name="u1258-4.png" crc="3949159463" ref="nuestro-trabajo"/>
+    <file name="d08 img05.png" crc="4076500362" seo="true" ref="nuestro-trabajo">
+      <caption webpage="nuestro-trabajo" alt=""/>
+    </file>
+    <file name="u1409-4.png" crc="98388428" ref="nuestro-trabajo"/>
+    <file name="u1410-4.png" crc="4236782324" ref="nuestro-trabajo"/>
+    <file name="u1310-4.png" crc="496987199" ref="nuestro-trabajo"/>
+    <file name="u1311-4.png" crc="4151080536" ref="nuestro-trabajo"/>
+    <file name="d09 img01 no04.png" crc="4186307174" seo="true" ref="nuestro-trabajo">
+      <caption webpage="nuestro-trabajo" alt=""/>
+    </file>
+    <file name="d09 img02 no05.png" crc="3890773529" seo="true" ref="nuestro-trabajo">
+      <caption webpage="nuestro-trabajo" alt=""/>
+    </file>
+    <file name="u1346-4.png" crc="3761994965" ref="nuestro-trabajo"/>
+    <file name="u1347-8.png" crc="332130280" ref="nuestro-trabajo"/>
+    <file name="d09 img09.png" crc="129327170" seo="true" ref="nuestro-trabajo">
+      <caption webpage="nuestro-trabajo" alt=""/>
+    </file>
+    <file name="d10 img03 flujo.png" crc="4205230686" seo="true" ref="nuestro-trabajo">
+      <caption webpage="nuestro-trabajo" alt=""/>
+    </file>
+    <file name="u1492-4.png" crc="3857846550" ref="aplicativos"/>
+    <file name="u1512-4.png" crc="3846341057" ref="aplicativos"/>
+    <file name="d11 img03.png" crc="147781155" seo="true" ref="aplicativos">
+      <caption webpage="aplicativos" alt=""/>
+    </file>
+    <file name="u1518-4.png" crc="334420343" ref="aplicativos"/>
+    <file name="u1515-4.png" crc="3827835940" ref="aplicativos"/>
+    <file name="u1586-6.png" crc="72530947" ref="aplicativos"/>
+    <file name="u1587-4.png" crc="137489954" ref="aplicativos"/>
+    <file name="u1625-4.png" crc="14419894" ref="aplicativos"/>
+    <file name="u1592-4.png" crc="483370138" ref="aplicativos"/>
+    <file name="u1628-4.png" crc="3823014344" ref="aplicativos"/>
+    <file name="u1634-6.png" crc="182763839" ref="aplicativos"/>
+    <file name="u1631-4.png" crc="243106032" ref="aplicativos"/>
+    <file name="u1637-4.png" crc="4133493941" ref="aplicativos"/>
+    <file name="d12 img04.png" crc="260087330" seo="true" ref="aplicativos">
+      <caption webpage="aplicativos" alt=""/>
+    </file>
+    <file name="u1693-4.png" crc="42359829" ref="aplicativos"/>
+    <file name="d13 img01.png" crc="3909541478" seo="true" ref="aplicativos">
+      <caption webpage="aplicativos" alt=""/>
+    </file>
+    <file name="u1717-4.png" crc="340781102" ref="aplicativos"/>
+    <file name="u1694-8.png" crc="41358922" ref="aplicativos"/>
+    <file name="u2643-4.png" crc="4072565946" ref="index"/>
+    <file name="u2644-5.png" crc="520260872" ref="index"/>
+    <file name="u2599-4.png" crc="3774864845" ref="index"/>
+    <file name="u2600-5.png" crc="4191734151" ref="index"/>
+    <file name="u2601-15.png" crc="238433942" ref="index"/>
+    <file name="u2608-4.png" crc="4158689044" ref="index"/>
+    <file name="u2614-4.png" crc="225746157" ref="index"/>
+    <file name="u2615-4.png" crc="3991364112" ref="index"/>
+    <file name="u2617-4.png" crc="358582953" ref="index"/>
+    <file name="u2622-4.png" crc="391801741" ref="index"/>
+    <file name="u2626-4.png" crc="236128207" ref="index"/>
+    <file name="u2627-4.png" crc="4127527567" ref="index"/>
+    <file name="u2633-4.png" crc="3868087825" ref="index"/>
+    <file name="u2636-4.png" crc="516465477" ref="index"/>
+    <file name="u2584-4.png" crc="53829581" ref="index"/>
+    <file name="u2587-4.png" crc="182576173" ref="index"/>
+    <file name="u2588-4.png" crc="4235125648" ref="index"/>
+    <file name="u2589-4.png" crc="4036870458" ref="index"/>
+    <file name="u2590-4.png" crc="3954391107" ref="index"/>
+    <file name="u2591-4.png" crc="48197335" ref="index"/>
+    <file name="u2592-4.png" crc="378535098" ref="index"/>
+    <file name="d06 img01-crop-u2567.png" crc="4162042595" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2569-4.png" crc="500822870" ref="index"/>
+    <file name="u2576-4.png" crc="4283180753" ref="index"/>
+    <file name="u2577-4.png" crc="163637322" ref="index"/>
+    <file name="u2578-4.png" crc="3791940772" ref="index"/>
+    <file name="u2559-4.png" crc="368283339" ref="index"/>
+    <file name="u2560-4.png" crc="7627535" ref="index"/>
+    <file name="u2561-4.png" crc="213551726" ref="index"/>
+    <file name="u2563-4.png" crc="3823098664" ref="index"/>
+    <file name="u2564-4.png" crc="3985386610" ref="index"/>
+    <file name="u2543-4.png" crc="131022352" ref="index"/>
+    <file name="u2544-7.png" crc="4104949022" ref="index"/>
+    <file name="u2550-25.png" crc="4039232982" ref="index"/>
+    <file name="u2507-4.png" crc="31641548" ref="index"/>
+    <file name="u2540-4.png" crc="35987637" ref="index"/>
+    <file name="u2510-4.png" crc="4017075331" ref="index"/>
+    <file name="u2509-4.png" crc="525649977" ref="index"/>
+    <file name="u2519-4.png" crc="3939106319" ref="index"/>
+    <file name="u2516-6.png" crc="340874954" ref="index"/>
+    <file name="u2521-4.png" crc="207203641" ref="index"/>
+    <file name="u2523-4.png" crc="451779379" ref="index"/>
+    <file name="u2530-4.png" crc="4291579639" ref="index"/>
+    <file name="u2527-4.png" crc="4016611498" ref="index"/>
+    <file name="u2535-4.png" crc="284075269" ref="index"/>
+    <file name="u2537-4.png" crc="4016611498" ref="index"/>
+    <file name="d01 img03 logo digicont177x182.png" crc="142010436" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="d17 img01-crop-u2486.png" crc="4041710524" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2488-4.png" crc="64776770" ref="index"/>
+    <file name="u2489-7.png" crc="166741595" ref="index"/>
+    <file name="d01 img03 logo digicont188x194.png" crc="378574773" seo="true" ref="aplicativos">
+      <caption webpage="aplicativos" alt=""/>
+    </file>
+    <file name="d01 img01-u128.png" crc="350887794" ref="index"/>
+    <file name="d01 img02-u138.png" crc="3828589625" ref="index"/>
+    <file name="d04 img01-u2606.png" crc="281472693" ref="index"/>
+    <file name="d05 img01-u2580.png" crc="270410699" ref="index"/>
+    <file name="d14 img01-u2551.png" crc="215794621" ref="index"/>
+    <file name="d14 img02-u2553.png" crc="71193370" ref="index"/>
+    <file name="d16 img01-u2502.png" crc="134890341" ref="index"/>
+    <file name="d16 img03-u2538.png" crc="3885216890" ref="index"/>
+    <file name="d07 img04-u1148.png" crc="443948707" ref="nuestro-trabajo"/>
+    <file name="d10 img01-u1368.png" crc="380098313" ref="nuestro-trabajo"/>
+    <file name="d11 img01-u1472.png" crc="3990417167" ref="aplicativos"/>
+    <file name="d11 img02-u1482.png" crc="333492182" ref="aplicativos"/>
+    <file name="d11 img02-u1709.png" crc="4264939463" ref="aplicativos"/>
+    <file name="d13 img02-u1722.png" crc="102724972" ref="aplicativos"/>
+    <file name="d03 img04.png" crc="411710801" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="d06 img02-crop-u3696.jpg" crc="529463727" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="d15 img01-u3722.png" crc="203467408" ref="index"/>
+    <file name="cursos-gratis-de-contabilidad-y-finanzas-crop-u3742.jpg" crc="236847439" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="d17 img02-crop-u3765.jpg" crc="426742752" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="d04 img03-u2610.png" crc="4074475786" ref="index"/>
+    <file name="d04 img04-u2618.png" crc="92374944" ref="index"/>
+    <file name="d04 img05-u2628.png" crc="325684928" ref="index"/>
+    <file name="d04 img06-u2634.png" crc="11336134" ref="index"/>
+    <file name="d07 img07-crop-u3775.jpg" crc="392399361" seo="true" ref="nuestro-trabajo">
+      <caption webpage="nuestro-trabajo" alt=""/>
+    </file>
+    <file name="d04 img02-crop-u3686.jpg" crc="49168037" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="d02 img01-u3666.png" crc="4127485894" ref="index"/>
+    <file name="d09 img06-u3785.png" crc="3954799364" ref="nuestro-trabajo"/>
+    <file name="d10 img02-u3795.png" crc="4228547773" ref="nuestro-trabajo"/>
+    <file name="d15 img03.png" crc="237457069" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="d15 img03a.png" crc="3885020460" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="327660072" seo="true" mt="1740107450991" redirect="true"/>
+  <file name="nuestro-trabajo.html" crc="186650768" seo="true" mt="1740106079060" redirect="true"/>
+  <file name="aplicativos.html" crc="3951562124" seo="true" mt="1740106117910" redirect="true"/>
+</manifest>
